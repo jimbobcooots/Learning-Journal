@@ -20,3 +20,8 @@ Learning is a natural process of life and occurs consciously and subconsciously,
 
 Journal Entry 4
 My learning is progressing, though I am already starting to feel the intensity of the course. I am very grateful Allie spoke about "Impostor Syndrome" at the beginning of the class because I have felt that way ever since I began exploring coding as a possible career option for me. Though I don't feel like I am a "coder" I do enjoy the craft, and am anxious to tackle the challenges ahead. My goal for the upcoming week is to get ahead on my readings and to review the material that we go over in class so that it really gets ingrained. I also want to begin exploring options with the career counselor and narrowing down some companies I am interested in pursuing.
+
+Journal Entry 5: Intrinsic Motivators for Learning 03/13/2018
+- Advancing professional self, becoming a more valuable asset
+- To be able to apply a craft to creative pursuits. Essentially, learning to give me the ability to act on my ideas. If I had an idea for an app or website I could actually go forth about making it.
+- Learning is growing and helps me to evolve as a person. Even subconsciously, learning changes how one thinks and interacts with the world. It makes me feel alive.
