@@ -25,3 +25,6 @@ Journal Entry 5: Intrinsic Motivators for Learning 03/13/2018
 - Advancing professional self, becoming a more valuable asset
 - To be able to apply a craft to creative pursuits. Essentially, learning to give me the ability to act on my ideas. If I had an idea for an app or website I could actually go forth about making it.
 - Learning is growing and helps me to evolve as a person. Even subconsciously, learning changes how one thinks and interacts with the world. It makes me feel alive.
+
+Journal Entry 6: What is the most unexpected part of this experience and how am I learning from it?
+The most unexpected part of this experience is that I'm actually doing it. If the impostor syndrome wasn't addressed at day 1 I would be feeling much worse than I do now. The issue isn't that I don't like what I'm doing, it is 95% because I simply have never viewed myself as a programmer, "tech nerd", or "computer guy" in my entire life. I guess I am slowly learning that people can stereotype themselves and that is a way we self-limit. By assuming we can't do something or aren't a certain type of person we close doors to our possibilities. 
