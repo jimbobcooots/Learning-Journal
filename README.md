@@ -31,3 +31,6 @@ Today i learned how to create a form that can take value inputs and produce an o
 
 Journal Entry 6: What is the most unexpected part of this experience and how am I learning from it?
 The most unexpected part of this experience is that I'm actually doing it. If the impostor syndrome wasn't addressed at day 1 I would be feeling much worse than I do now. The issue isn't that I don't like what I'm doing, it is 95% because I simply have never viewed myself as a programmer, "tech nerd", or "computer guy" in my entire life. I guess I am slowly learning that people can stereotype themselves and that is a way we self-limit. By assuming we can't do something or aren't a certain type of person we close doors to our possibilities. 
+
+Journal Entry 7:
+I agree with the order of importance of the list. The only thing I would rephrase is "teaching others" because that is teaching what you already know. I would say "collaborating with others" because then people are learning from each other. I do find this the most hands-on, helpful way I have learned code so far, and really enjoy the collaboration aspect. I think learning is maximized with this method because differing ideas are being shared with the goal of reaching a common solution.
