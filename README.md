@@ -40,3 +40,6 @@ Firstly, I would like to say that I am very appreciative of CodeFellows for brin
 
 Journal Entry 10: 3/19/2018
 As the class has progressed I have encountered new positives and new challenges. One of the biggest positives has been an increasing eagerness to build and to design. I am inspired to do some pro-bono designing for the websites of a couple family-friends whose business sites are in need of serious makeovers. A challenge I have faced is I have gotten past the point in Javascript where the course material has been review for me, and now entering territory where everything is new, and therefore, slower to learn. I have been relying on peer programming more and more for the Javascript, which I have really enjoyed because I learn about my peers' thought processes and can use those strategies to my advantage. 
+
+Journal Entry 11: 3/20/2018
+That is a tough question. I'm pretty reflective when it comes to times when I have experienced "failure" or regret. After reflecting, my course of action is to compensate for what I perceived to be the flaws in my handling of the situation. Depending on the severity of the setback I may be very motivated to prevent a similar issue from happening again.
