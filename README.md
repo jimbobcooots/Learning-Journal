@@ -51,3 +51,6 @@ One thing harder to learn than expected: I enjoy styling pages and thought that 
 
 Journal 13: 3/22/2018
 This week has ramped up tremendously for me in terms of difficulty. In previous weeks I didn't have to rely as heavily on TA's and demo code to get through the labs. I find myself needing that crutch more often, which isn't the best feeling, but I believe it is still a stepping stone in the learning process. I'm absorbing a lot of information, and though it has been challenging, it doesn't phase me. I'm just excited to get better at coding!
+
+Journal 14: 3/24/2018
+I am excited to enter project week and looking forward to the opportunity of seeing how successful I can contribute to a team. I relate our success directly to my ability to succeed and I hope that we an produce an excellent project. One of my biggest goals is to learn how to contribute in a way that inspires and motivates my team to be even better. This means, I don't want to be a burden to my team or a deterrent to our success, I want to contribute so that I am an essential component to a highly efficient machine.
